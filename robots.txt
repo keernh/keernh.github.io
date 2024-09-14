@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://keernh.github.io/Egf/sitemap.Egf.gz
